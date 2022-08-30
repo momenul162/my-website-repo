@@ -1,0 +1,247 @@
+body{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    background: #faf7f7;
+    margin: 0px 30px 0px;
+}
+
+.first-div{
+    background-color: A6D1E6;
+    height: 125px;
+    width: 100%;
+    text-align: center;
+}
+.heading{
+    text-align: left;
+    font-size: 25px;
+    color: rgb(5, 66, 66);
+}
+.heading:hover{
+    color: rgb(7, 88, 61);
+}
+
+.first-div-container{
+    display: inline;
+    position: absolute;
+    left: 80px;
+    top: 5px;
+
+}
+.first-div-container-1{
+    display: inline;
+    position: absolute;
+    top: 30px;
+    left: 220px;
+
+}
+.first-div-container-2{
+    display: inline;
+    position:absolute;
+    top: 15px;
+    right: 50px;
+}
+
+.header-bar{
+    display: inline-block;
+    margin: 0 15px 0;
+}
+.header-bar:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.second-div{
+    height: 350px;
+    width: 100%;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.container-devide-1{
+    display: inline-block;
+    position: absolute;
+    left: 150px;
+}
+
+.container-devide-2{
+    display: inline-block;
+    position: absolute;
+    right: 100px;
+}
+
+.form-1{
+    display:inline-block;
+    margin: 30px 15px 0px;
+}
+
+.second-div-container-3 h3{
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 100px 10px 100px;
+    text-decoration: none;
+  }
+  
+  .second-div-container-3 h3:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .icon{
+    height: 18px;
+    width: 18px;
+  }
+
+.third-div{
+    height: 250px;
+    width: 100%;
+}
+
+.tickets-update-1{
+    width: 45%;
+    display: inline-block;
+
+}
+.top{
+    text-align: left;
+    height: 60px;
+    background-color: steelblue;
+}
+ .down{
+    height: 60px;
+    background-color: bisque;
+ }
+
+.top-text{
+    position: relative;
+    top: 10px;
+}
+
+.span-1{
+    font-size: 25px;
+}
+
+.row-1{
+    width: 100%;
+    margin: 50px 0px;
+
+}
+
+.row-container-1{
+    width: 250px;
+    display: inline-block;
+    position: relative;
+    right: 120px;
+}
+
+.row-container-2{
+    width: 250px;
+    display: inline-block;
+
+}
+
+.row-container-3{
+    width: 250px;
+    display: inline-block;
+    position: relative;
+    left: 120px;
+
+}
+
+.row-2{
+    width: 100%;
+    margin: 50px 0px;
+}
+
+.row-container-4{
+    width: 40%;
+    display: inline-block;
+}
+.row-container-5{
+    height: 400px;
+    width: 50%;
+    display: inline-block;
+
+}
+
+.row-3{
+    margin: 25px 0px;
+}
+
+.row-container-6{
+    display: inline-block;
+}
+
+.row-container-7{
+    display: inline-block; 
+}
+
+.row-container-8{
+    display: inline-block;
+}
+
+.row-container-9{
+    display: inline-block;
+}
+
+.row-container-10{
+    display: inline-block;
+}
+
+.row-4{
+    height: 100px;
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: 20px;
+
+}
+
+.bottom-logo{
+    height: 80px;
+    width: 80px;
+}
+
+.last-row{
+    display: inline-block;
+    line-height: 15px;
+}
+
+.row-5{
+    background: F1F1F1;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.row-container-11{
+    display: inline-block;
+    position: relative;
+    right: 100px;
+    
+}
+.row-container-12{
+    display: inline-block;
+    
+}
+.row-container-13{
+    text-align: left;
+    line-height: 15px;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    
+}
